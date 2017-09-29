@@ -11,3 +11,7 @@ Sample website made during front end development course at [Beetroot](https://ww
 * [masonry.js](https://www.google.com/?q=masonry+js)
 * JavaScript slider
 * Smooth scrolling
+
+## Authors
+
+* **Nikita Fitisov** - *Initial work*
